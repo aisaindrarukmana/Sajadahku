@@ -49,3 +49,18 @@ flutter pub get
 
 # 4. Jalankan aplikasi
 flutter run
+
+
+## 👨‍💻 Identitas Pengembang
+
+| | Anggota 1 | Anggota 2 |
+| :--- | :--- | :--- |
+| *Nama Lengkap* | Aisa Indra Rukmana | Safira Qurotul Hidayah |
+| *Kelas* | 11 RPL 2 | 11 RPL 2 |
+| *Sekolah* | SMK Negeri 10 Semarang | SMK Negeri 10 Semarang |
+| *Mata Pelajaran* | LKPD Pengembangan Aplikasi Mobile | LKPD Pengembangan Aplikasi Mobile |
+| *GitHub* | https://github.com/aisarukmana | https://github.com/safirahidayah |
+| *Tahun* | 2026 | 2026 |
+
+---
+Dibuat dengan ❤️ menggunakan Flutter - Tim Pengembang SajadahKu
